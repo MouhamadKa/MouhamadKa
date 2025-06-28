@@ -1,5 +1,5 @@
 ## Hi, I'm Mouhamad
-Software Engineer | Full Stack Developer | Passionate about building real-world apps and learning new technologies.
+Software Engineer | Web Developer | Committed to delivering scalable, real-world solutions using modern technologies.
 
 ⚙️ Skills & Expertise:
 

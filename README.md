@@ -1,7 +1,5 @@
 # Hi, I'm Mouhamad
 Software Engineer | Full Stack Developer | Passionate about building real-world apps and learning new technologies.
-<!--
-**MouhamadKa/MouhamadKa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ⚙️ Skills & Expertise:
 

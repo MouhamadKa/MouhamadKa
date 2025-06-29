@@ -16,7 +16,7 @@ Software Engineer | Web Developer | Committed to delivering scalable, real-world
   [GitHub](https://github.com/MouhamadKa/Study-Bud)
 
 - I take great pride in my LeetCode problem-solving progress.
-  [GitHub](https://github.com/MouhamadKa/LeetCode-Problems) [LeetCode Profile](https://github.com/MouhamadKa/LeetCode-Problems)
+  [GitHub](https://github.com/MouhamadKa/LeetCode-Problems) [LeetCode Profile](https://leetcode.com/u/Mouhamad-Kasem/)
 
 ## 📫 How to reach me:
 
